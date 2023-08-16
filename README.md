@@ -40,4 +40,9 @@ But for a change, let"s do that for each and every word of the given String. You
 Define a function that removes duplicates from an array of non negative numbers and returns it as a result.
 The order of the sequence has to stay the same.
 
+## Printing Array elements with Comma delimiters
+Input: Array of elements
+["h","o","l","a"]
+Output: String with comma delimited elements of the array in th same order.
+"h,o,l,a"
 
