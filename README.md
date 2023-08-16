@@ -36,3 +36,8 @@ Write a function that will return the count of distinct case-insensitive alphabe
 DropCaps means that the first letter of the starting word of the paragraph should be in caps and the remaining lowercase, just like you see in the newspaper.
 But for a change, let"s do that for each and every word of the given String. Your task is to capitalize every word that has length greater than 2, leaving smaller words as they are.
 
+## Remove duplicates in a list
+Define a function that removes duplicates from an array of non negative numbers and returns it as a result.
+The order of the sequence has to stay the same.
+
+
