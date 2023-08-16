@@ -20,3 +20,9 @@ This address has 4 octets where each octet is a single byte (or 8 bits).
 So 128.32.10.1 == 10000000.00100000.00001010.00000001
 Because the above IP address has 32 bits, we can represent it as the unsigned 32 bit number: 2149583361
 Complete the function that takes an unsigned 32 bit number and returns a string representation of its IPv4 address.
+
+## IP adress to a number
+An IPv4 address is a 32-bit number that identifies a device on the internet.
+While computers read and write IP addresses as a 32-bit number, we prefer to read them in dotted-decimal notation, which is basically the number split into 4 chunks of 8 bits, converted to decimal, and delmited by a dot.
+In this kata, you will create the function ipToNum (or ip_to_num, depending on the language) that takes an ip address and converts it to a number, as well as the function numToIp (or num_to_ip) that takes a number and converts it to an IP address string. Input will always be valid.
+
