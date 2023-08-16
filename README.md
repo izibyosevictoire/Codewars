@@ -45,4 +45,7 @@ Input: Array of elements
 ["h","o","l","a"]
 Output: String with comma delimited elements of the array in th same order.
 "h,o,l,a"
+## consonant value
+Given a lowercase string that has alphabetic characters only and no spaces, return the highest value of consonant substrings. Consonants are any letters of the alphabet except "aeiou".
+We shall assign the following values: a = 1, b = 2, c = 3, .... z = 26.
 
