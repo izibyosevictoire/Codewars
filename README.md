@@ -62,3 +62,7 @@ Complete the solution so that it reverses the string passed into it.
 
 ## multiply
 multiply numbers
+
+## even or odd
+Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+
