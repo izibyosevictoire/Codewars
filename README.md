@@ -49,3 +49,9 @@ Output: String with comma delimited elements of the array in th same order.
 Given a lowercase string that has alphabetic characters only and no spaces, return the highest value of consonant substrings. Consonants are any letters of the alphabet except "aeiou".
 We shall assign the following values: a = 1, b = 2, c = 3, .... z = 26.
 
+## strings ends with 
+Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string).
+Examples:
+solution('abc', 'bc') // returns true
+solution('abc', 'd') // returns false
+
