@@ -68,3 +68,5 @@ Create a function that takes an integer as an argument and returns "Even" for ev
 
 ## convert anumber to a string
 Create a function that takes a number as an argument and returns a string 
+## you'are asquare
+Given an integral number, determine if it's a square number:
