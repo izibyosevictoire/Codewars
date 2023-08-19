@@ -70,3 +70,11 @@ Create a function that takes an integer as an argument and returns "Even" for ev
 Create a function that takes a number as an argument and returns a string 
 ## you'are asquare
 Given an integral number, determine if it's a square number:
+
+## highest and lowest
+
+n this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
+Examples:
+highAndLow("1 2 3 4 5");  // return "5 1"
+highAndLow("1 2 -3 4 5"); // return "5 -3"
+highAndLow("1 9 3 4 -5"); // return "9 -5"
