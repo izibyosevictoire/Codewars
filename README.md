@@ -88,3 +88,10 @@ Example(Input --> Output)
 "you will win" -->["you 3", "will 4", "win 3"]
 Your task is to write a function that takes a String and returns an Array/list with the length of each word added to each element .
 
+## Muximum multiple
+Given a Divisor and a Bound , Find the largest integer N , Such That ,
+
+Conditions :
+N is divisible by divisor
+N is less than or equal to bound
+N is greater than 0.
