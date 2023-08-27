@@ -101,3 +101,8 @@ In this simple exercise, you will build a program that takes a value, integer , 
 
 For example, if the parameters passed are (2, 6), the function should return [2, 4, 6] as 2, 4, and 6 are the multiples of 2 up to 6.
 
+## Detect a pangram
+A pangram is a sentence that contains every single letter of the alphabet at least once. For example, the sentence "The quick brown fox jumps over the lazy dog" is a pangram, because it uses the letters A-Z at least once (case is irrelevant).
+
+Given a string, detect whether or not it is a pangram. Return True if it is, False if not. Ignore numbers and punctuation.
+
