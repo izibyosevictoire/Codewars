@@ -106,3 +106,6 @@ A pangram is a sentence that contains every single letter of the alphabet at lea
 
 Given a string, detect whether or not it is a pangram. Return True if it is, False if not. Ignore numbers and punctuation.
 
+## Transform to prime
+
+Given a List [] of n integers , find minimum number to be inserted in a list, so that sum of all elements of list should equal the closest prime number .
