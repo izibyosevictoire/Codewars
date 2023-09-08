@@ -127,3 +127,8 @@ Examples
    942  -->  9 + 4 + 2 = 15  -->  1 + 5 = 6
 132189  -->  1 + 3 + 2 + 1 + 8 + 9 = 24  -->  2 + 4 = 6
 493193  -->  4 + 9 + 3 + 1 + 9 + 3 = 29  -->  2 + 9 = 11  -->  1 + 1 = 2
+
+## count characters in your string
+The main idea is to count all the occurring characters in a string. If you have a string like aba, then the result should be {'a': 2, 'b': 1}.
+What if the string is empty? Then the result should be empty object literal, {}.
+

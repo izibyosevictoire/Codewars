@@ -1,0 +1,15 @@
+function count(string) {
+let arr = string.split("")
+function ToObj(e){
+  let obj = {};
+  let result;
+  for(let i=0;i<e.length;i++){
+    result = e[i];
+    obj[result]=(obj[result]||0)+1;
+  }
+  return obj;
+}
+
+  return ToObj(arr);
+  
+}
