@@ -132,3 +132,14 @@ Examples
 The main idea is to count all the occurring characters in a string. If you have a string like aba, then the result should be {'a': 2, 'b': 1}.
 What if the string is empty? Then the result should be empty object literal, {}.
 
+## Grouped by commas
+Finish the solution so that it takes an input n (integer) and returns a string that is the decimal representation of the number grouped by commas after every 3 digits.
+Examples
+       1  ->           "1"
+      10  ->          "10"
+     100  ->         "100"
+    1000  ->       "1,000"
+   10000  ->      "10,000"
+  100000  ->     "100,000"
+ 1000000  ->   "1,000,000"
+
